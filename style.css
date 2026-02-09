@@ -84,8 +84,8 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: auto;
-  height: auto;
+  width: 60px;
+  height: 90px;
   background: var(--yellow);
   color: var(--maroon);
   font-weight: 900;
