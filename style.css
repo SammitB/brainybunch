@@ -81,11 +81,18 @@ a {
 
 
 .logo-icon {
-  width: 60px;
-  height: auto;
-  margin-right: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 70px;
+  background: var(--yellow);
+  color: var(--maroon);
+  font-weight: 900;
+  font-size: 22px;
+  border-radius: 8px;
+  flex-shrink: 0;
 }
-
 
 .logo-title {
   display: block;
