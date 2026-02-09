@@ -84,7 +84,7 @@ a {
   align-items: center;
   justify-content: center;
   width: 60px;
-  height: auto;
+  height: 60px;
   background: var(--yellow);
   color: var(--maroon);
   font-weight: 900;
