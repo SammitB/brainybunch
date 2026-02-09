@@ -83,8 +83,8 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 42px;
-  height: 42px;
+  width: 60px;
+  height: auto;
   background: var(--yellow);
   color: var(--maroon);
   font-weight: 900;
